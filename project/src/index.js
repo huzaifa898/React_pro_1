@@ -30,7 +30,7 @@ ReactDOM.render(
     <Cards
     imgSrc="https://www.heavenofhorror.com/wp-content/uploads/2020/04/Extracurricular-netflix-review.jpg"
     title="A netflix Originals series"
-    sName="ETRACURRICULAR"
+    sName="EXTRA CURRICULAR"
     link="https://www.netflix.com/pk/title/80990668"
     />
     <Cards
@@ -46,7 +46,7 @@ ReactDOM.render(
     link="https://playdesi.net/watch-online/netflix/sacred-games-season-1-netflix//"
     />
     <Cards
-    imgSrc="https://playdesi.net/wp-content/uploads/2020/04/a6s565565-1140x445.jpg"
+    imgSrc="https://m.media-amazon.com/images/M/MV5BYzc4ZmFhZjItOWJjMy00YzhiLTkxMDAtNWUyNjIyOTJkYmY3XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_.jpg"
     title="A netflix Originals series"
     sName="SHE"
     link="https://playdesi.net/watch-online/netflix/she-neflix/"
@@ -88,7 +88,7 @@ ReactDOM.render(
     link="https://playdesi.net/watch-online/amazon-prime/breathe-amazon/"
     />
     <Cards
-    imgSrc="https://playdesi.net/wp-content/uploads/2020/05/Betaal-1140x445.jpg"
+    imgSrc="https://wallpapercave.com/wp/wp6472832.jpg"
     title="A Netflix Originals series"
     sName="BETAAL"
     link="https://playdesi.net/watch-online/netflix/betaal-netflix/"
